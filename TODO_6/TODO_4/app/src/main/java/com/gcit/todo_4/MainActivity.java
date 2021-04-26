@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import java.security.Key;
-
+ 
  public class MainActivity extends AppCompatActivity {
     public static final String  EXTRA_message = "com.gcit.todo_4";
     private EditText message;
@@ -56,7 +56,7 @@ import java.security.Key;
     @Override
     public void onPause(){
         super.onPause();
-        Log.d(LOG_TAG,"onResume");
+        Log.d(LOG_TAG,"onPause");
     }
 
     @Override
