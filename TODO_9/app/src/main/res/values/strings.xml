@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TODO_9</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUBTRACT</string>
+    <string name="mul">MULTIPLY</string>
+    <string name="div">DIVISION</string>
+</resources>
